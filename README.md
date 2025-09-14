@@ -50,3 +50,6 @@ super-mario-on-aws/
 └── run.sh                    # 06 獲取連結，開始玩遊戲
 ```
 
+## 更多內容請看文件
+https://docs.google.com/document/d/1wmbh5QENNwfd5nnKAYs_erP2F_JSJmwEoUZDOrs5urI/edit?usp=sharing
+
