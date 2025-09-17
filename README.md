@@ -53,3 +53,4 @@ super-mario-on-aws/
 ## 更多內容請看文件
 https://docs.google.com/document/d/1wmbh5QENNwfd5nnKAYs_erP2F_JSJmwEoUZDOrs5urI/edit?usp=sharing
 
+Demo 影片: https://drive.google.com/file/d/1I7dvPnADRI9Ihc454vdBNOK9rrx7OK0i/view?usp=sharing
